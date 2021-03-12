@@ -1,0 +1,105 @@
+nav{
+    
+    background-image: url(https://placehold.it/1365x100/ddd);
+    
+    
+   
+}
+nav img{
+    content:url(https://placehold.it/200x70/ddd);
+    margin-left: 202.5px;
+    border-style: solid;
+    
+    border-color: black;
+    
+
+    
+}
+ul{
+    /* margin-top: 15px; */
+    margin-left: 454px;
+}
+ul li{
+    color:black;
+    display:inline-block;
+    border-style: solid;
+   
+    padding-bottom: 50px;
+
+}
+main{
+    margin-left: 202.5px;
+    
+    
+}
+#hero{
+   
+    margin-top: 30px;
+    
+    
+}
+footer{
+    
+    margin-top: 30px;
+  
+    
+}
+#sub{
+   
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+#banner{
+    margin-top: 30px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+h1{
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-left: 30px;
+
+   
+}
+ body p{
+    font-style: italic;
+    font-size: medium;
+    font-family:monospace;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 200px;
+    overflow-y: scroll;
+    
+}
+button{
+    margin-top: 250px;
+    color:black;
+    background-color: #ddd;
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+  
+}
+button:hover{
+    color:350ms;
+    
+}
+#nav1{
+    margin-right: 100px;
+
+    
+    
+}
+#nav2{
+    margin-right: 100px;
+   
+    
+}
+#nav3{
+    margin-right: 100px;
+    
+}
