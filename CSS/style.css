@@ -6,24 +6,24 @@ nav{
    
 }
 nav img{
-    content:url(https://placehold.it/200x70/ddd);
-    margin-left: 202.5px;
-    border-style: solid;
     
-    border-color: black;
+    border-style: solid;
+    float: left;
+    background-color: black;
+   
     
 
     
 }
 ul{
-    /* margin-top: 15px; */
-    margin-left: 454px;
+    
+    margin-left: 202.5px;
 }
 ul li{
     color:black;
     display:inline-block;
     border-style: solid;
-   
+    margin-top: 35px;
     padding-bottom: 50px;
 
 }
